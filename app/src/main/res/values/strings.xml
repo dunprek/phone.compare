@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">comparison</string>
+    <string name="app_token">b1d207fc61a2ada12369e96923041150b520bdd2e7a1da82</string>
+
+
+    <!--STRING NAME -->
+    <string name="text_title">Title</string>
+
+
+</resources>
